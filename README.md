@@ -1,5 +1,3 @@
-Here's a clean and structured `README.md` file tailored for your project setup — **Java Spring Boot (Maven)** backend and **React with Bootstrap** frontend, organized under a single `ems/` directory:
-
 ---
 
 ```md
@@ -137,7 +135,3 @@ java -jar target/ems-backend-0.0.1-SNAPSHOT.jar
 This project is licensed under the [MIT License](LICENSE).
 
 ```
-
----
-
-Would you like me to generate the `LICENSE` file too or customize any section (like DB setup, deployment steps, Docker support, etc.)?
